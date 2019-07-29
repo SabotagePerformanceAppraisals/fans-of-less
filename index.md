@@ -1,10 +1,5 @@
 ---
 layout: splash
-header:
-  overlay_image: /assets/images/fans-of-LeSS-logo-blue-background.svg
-  actions:
-    - label: "Join Us"
-      url: "mailto:manoj@vadakkan.org?subject=Please list my name on the Fans of LeSS website."
 ---
 # Fans Of LeSS Declaration
 
