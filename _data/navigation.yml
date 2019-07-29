@@ -4,6 +4,8 @@ main:
     url: /what/
   - title: "Why Join?"
     url: /why/
+  - title: "Who Are We?"
+    url: /who/
   - title: "What Else Can I Do?"
     url: /what-else/
   #- title: "Quick-Start Guide"
