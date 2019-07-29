@@ -6,6 +6,8 @@ main:
     url: /why/
   - title: "Who Are We?"
     url: /who/
+  - title: "How Can I Join?"
+    url: /how/
   - title: "What Else Can I Do?"
     url: /what-else/
   #- title: "Quick-Start Guide"
