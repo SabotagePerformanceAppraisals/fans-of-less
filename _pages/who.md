@@ -1,5 +1,5 @@
 ---
-permalink: /who
+permalink: /who/
 title: Who Are We?
 author_profile: false
 ---
