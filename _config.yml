@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fans of LeSS"
+title                    : #"Fans of LeSS"
 title_separator          : "-"
 subtitle                 : "less process, fewer layers, fewer roles, fewer artifacts, less JIRA, less traditional management in disguise, less hype..." 
 name                     : "Fans of LeSS"
