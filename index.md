@@ -11,8 +11,8 @@ We, the undersigned, are declaring a breakdown in the world of Agile
       original intent.
 
 We believe that traditional
-organizations will not gain agility with the superficial changes that
-are usually sold as "Agile."   Instead we advocate less process, fewer layers,
+organizations will not gain agility with the superficial _change theater_ that
+is often sold as "Agile."   Instead we advocate less process, fewer layers,
 fewer roles, reduced use of "Agile tools" such as JIRA, less focus on
 metrics, less traditional managment in disguise, and less 
 hype.  We find this stuff to be actively
