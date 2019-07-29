@@ -30,5 +30,6 @@ as LeSS (and maybe even Nexus) represent a much needed change in our
 industry. 
 
 # Signatories
-Michael James (MJ), Seattle, WA
+* Michael James (MJ), Seattle, WA, 29 July 2019
+* [Add your name here!](/how/)
 
