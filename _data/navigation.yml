@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "What is LeSS?"
+    url: /what/
+  - title: "Why Join?"
+    url: /why/
+  - title: "What Else Can I Do?"
+    url: /what-else/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
