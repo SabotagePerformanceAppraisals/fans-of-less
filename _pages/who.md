@@ -1,7 +1,6 @@
 ---
 permalink: /who/
 title: Who Are We?
-author_profile: false
 ---
 ## Volunteers
 Manoj Vadakkan started Fans Of LeSS for the Austin Scrum Gathering in 2019 as a countermeasure to the big-box methdology and tools salesmen typically found exhibiting at Agile conferences.  I (MJ) quickly volunteered.  We set up a booth at the conference and got help from other volunteers such as Gene Gendel, Manjit Singh, and Rowan Bunning.  (If I left anyone out, please contact me and I'll add you.)
