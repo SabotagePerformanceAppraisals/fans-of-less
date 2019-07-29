@@ -18,7 +18,7 @@ We, the undersigned, are declaring a breakdown in the world of Agile
 We believe that traditional
 organizations will not gain agility with the superficial changes that
 are usually sold as "Agile."   We like less process, fewer layers,
-fewer roles, reduced use of "Agile tools" like JIRA, less focus on
+fewer roles, reduced use of "Agile tools" such as JIRA, less focus on
 metrics, less traditional managment in disguise, and less 
 hype.  We find this stuff to be actively
 _counterproductive_, innoculating organizations against real change.
