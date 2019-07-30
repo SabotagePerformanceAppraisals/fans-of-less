@@ -2,10 +2,10 @@
 main:
   - title: "What is LeSS?"
     url: /what/
-  - title: "Why Join?"
-    url: /why/
   - title: "Who Are We?"
     url: /who/
+  - title: "Why Join?"
+    url: /why/
   - title: "How Can I Join?"
     url: /how/
   - title: "What Else Can I Do?"
