@@ -5,8 +5,8 @@ layout: splash
 
 We, the undersigned, are declaring a breakdown in the world of Agile
       and Scrum. We love the four values and twelve principles of the
-      Agile Manifesto. We may have been inspired by Ken Schwaber's
-      description of Scrum.  But we feel that today these
+      Agile Manifesto. We may have been inspired by
+      [an honest and useful vision of Scrum](/an-honest-and-useful-vision-of-scrum/).  But we feel that today these
       words have become distorted to mean the opposite of their
       original intent.
 
