@@ -73,8 +73,8 @@ involves fundamental changes to organizational structure and policy
 led both from the top and the bottom, with farther reaching
 implications and a tougher journey than many will expect.
 
-For these reasons we support approaches based on fundamental Agile
-principles, such as LeSS, and we reject 'scaling' approaches that
+For these reasons we support approaches such as LeSS that are based on
+fundamental Agile principles, and we reject 'scaling' approaches that
 increase organizational complexity and disempower teams.
 
 # Signatories
