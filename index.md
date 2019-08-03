@@ -4,11 +4,11 @@ layout: splash
 # We Object To The Rampant Distortion Of Agile And Scrum.
 
 We, the undersigned, are calling B.S. on what is usually sold as Agile
-and Scrum. We love the [four values](https://agilemanifesto.org) and
-[twelve principles](https://agilemanifesto.org/principles.html) of the
+and Scrum. We love the [four values](https://agilemanifesto.org){:target="_blank"} and
+[twelve principles](https://agilemanifesto.org/principles.html){:target="_blank"} of the
 Agile Manifesto, the original reason our movement was called *Agile*.
 Some of us were also inspired by
-[a realistic and useful vision of Scrum](a-realistic-and-useful-vision-of-scrum/).
+[a realistic and useful vision of Scrum](a-realistic-and-useful-vision-of-scrum/){:target="_blank"}.
 But we feel that _Agile_ and _Scrum_ are usually distorted to mean
 something incompatible with this prior intent, especially when applied
 to organizations that are bigger than one team.
@@ -18,7 +18,7 @@ We believe in the competitive advantage of adaptability in order to
   and turbulent environment rather than continuing to turn the screws
   on speed and resource efficiency. 
 
-We believe that even when many team are involved, adaptability of
+We believe that even when many teams are involved, adaptability of
  customer value can be fine-grained and on a timescale of a week to a
  month rather than limited to coarse multi-month program increments
  and quarterly goals.
@@ -49,7 +49,7 @@ often mischaracterized as Agile:
 * eliminate processes not owned by teams,
 * eliminate unnecessary intermediate layers and handoffs, (e.g. [people
   mislabeled "Product Owners" who actually own only one team instead of the
-  whole Product](https://seattlescrum.com/downloads/Why-Scrum-Isnt-Making-Your-Organization-Very-Agile-Product-Owner-Misconceptions.pdf)) 
+  whole Product](https://seattlescrum.com/downloads/Why-Scrum-Isnt-Making-Your-Organization-Very-Agile-Product-Owner-Misconceptions.pdf){:target="_blank"}) 
 * eliminate unnecessary process-imposed role distinctions (e.g. Release
   Train Engineer, Scrum Master as crypto-project-manager rather than
   organizational change agents) 
