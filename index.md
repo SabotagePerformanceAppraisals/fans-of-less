@@ -6,26 +6,18 @@ layout: splash
 We, the undersigned, are declaring a breakdown in the world of Agile
 and Scrum. We love the [four values](https://agilemanifesto.org) and
 [twelve principles](https://agilemanifesto.org/principles.html) of the 
-Agile Manifesto, the original reason our movement is called *Agile*.
+Agile Manifesto, the original reason our movement was called *Agile*.
 Some of us were also inspired by
 [an honest and useful vision of Scrum](/an-honest-and-useful-vision-of-scrum/). 
 But today we feel that _Agile_ and _Scrum_ are usually distorted to 
 mean something incompatible with their original intent. 
-
-We believe that traditional
-organizations will not gain agility with the superficial _change theater_ that
-is often sold as "Agile."   Instead we advocate less process, fewer layers,
-fewer roles, reduced use of "Agile tools" such as JIRA, less focus on
-metrics, less traditional managment in disguise, and less 
-hype.  We find this stuff to be actively
-_counterproductive_, innoculating organizations against real change.
 
 Organizations that want to truly serve their customers and employees
 will benefit more from _de-scaling organizational complexity_, and
 instead increasing skills, knowledge, and collaboration.  This
 involves fundamental changes to organizational structure and policy
 led both from the top and the bottom, with farther reaching
-implications and a longer journey than many will expect.
+implications and a tougher journey than many will expect.
 
 * We believe in the competitive advantage of adaptability in order to
   discover and deliver on the highest end-customer value in a complex
@@ -56,11 +48,34 @@ implications and a longer journey than many will expect.
 * We believe in self-managing teams that own (not rent) their own
   processes and tools within agreed boundaries of interaction and
   transparency rather than being forced to conform to work management
-  tools that force rigid processes and tools on teams. 
+  tools that impose processes on teams.
 
-Thus we feel that lesser-known approaches that are explicit about this, such
-as LeSS (and maybe even Nexus) represent a much needed change in our
-industry. 
+Saying *yes* to real agility means saying *no* to things that are
+often mischaracterized as Agile: 
+* eliminate processes not owned by teams,
+* eliminate unnecessary intermediate layers and handoffs, (e.g. people
+  mislabeled "Product Owners" who actually own only one team instead of the
+  whole Product) 
+* eliminate unnecessary process-imposed role distinctions (e.g. Release
+  Train Engineer, Scrum Master as crypto-project-manager rather than
+  organizational change agents) 
+* eliminate software tools that affect the way teams manage their
+Product Backlogs and Sprint Backlogs,
+* eliminate the obsession with quantitative measures, particularly
+  "velocity,"
+* eliminate other traditional management practices relabeled and
+  disguised as "Agile."
+
+We believe that traditional organizations will not gain agility with
+the superficial _change theater_ that is often sold as "Agile."  We
+find change theater to be actively counterproductive, innoculating
+organizations against the deeper, more fundamental changes they would
+need.
+
+For these reasons we support approaches based on these crucial and
+fundamental Agile principles, such as LeSS, and we reject 'scaling'
+approaches that increase organizational complexity and disempower
+teams.
 
 # Signatories
 * Michael James (MJ), Seattle, WA, 29 July 2019
