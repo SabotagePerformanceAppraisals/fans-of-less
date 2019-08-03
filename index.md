@@ -18,7 +18,7 @@ We believe in the competitive advantage of adaptability in order to
   and turbulent environment rather than continuing to turn the screws
   on speed and resource efficiency. 
 
-We believe that no matter how many team are involved, adaptability of
+We believe that even when many team are involved, adaptability of
  customer value can be fine-grained and on a timescale of a week to a
  month rather than limited to coarse multi-month program increments
  and quarterly goals.
