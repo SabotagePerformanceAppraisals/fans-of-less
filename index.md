@@ -47,9 +47,9 @@ We believe in self-managing teams that own (not rent) their own
 Saying *yes* to real agility means saying *no* to things that are
 often mischaracterized as Agile: 
 * eliminate processes not owned by teams,
-* eliminate unnecessary intermediate layers and handoffs, (e.g. people
+* eliminate unnecessary intermediate layers and handoffs, (e.g. [people
   mislabeled "Product Owners" who actually own only one team instead of the
-  whole Product) 
+  whole Product](https://seattlescrum.com/downloads/Why-Scrum-Isnt-Making-Your-Organization-Very-Agile-Product-Owner-Misconceptions.pdf)) 
 * eliminate unnecessary process-imposed role distinctions (e.g. Release
   Train Engineer, Scrum Master as crypto-project-manager rather than
   organizational change agents) 
