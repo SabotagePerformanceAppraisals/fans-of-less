@@ -3,49 +3,43 @@ layout: splash
 ---
 # We Object To The Rampant Distortion Of Agile And Scrum.
 
-We, the undersigned, are declaring a breakdown in the world of Agile
+We, the undersigned, are calling B.S. on what is usually sold as Agile
 and Scrum. We love the [four values](https://agilemanifesto.org) and
-[twelve principles](https://agilemanifesto.org/principles.html) of the 
+[twelve principles](https://agilemanifesto.org/principles.html) of the
 Agile Manifesto, the original reason our movement was called *Agile*.
 Some of us were also inspired by
-[an honest and useful vision of Scrum](/an-honest-and-useful-vision-of-scrum/). 
-But today we feel that _Agile_ and _Scrum_ are usually distorted to 
-mean something incompatible with their original intent. 
+[a realistic and useful vision of Scrum](/a-realistic-and-useful-vision-of-scrum/).
+But we feel that _Agile_ and _Scrum_ are usually distorted to mean
+something incompatible with this prior intent, especially when applied
+to organizations that are bigger than one team.
 
-Organizations that want to truly serve their customers and employees
-will benefit more from _de-scaling organizational complexity_, and
-instead increasing skills, knowledge, and collaboration.  This
-involves fundamental changes to organizational structure and policy
-led both from the top and the bottom, with farther reaching
-implications and a tougher journey than many will expect.
-
-* We believe in the competitive advantage of adaptability in order to
+We believe in the competitive advantage of adaptability in order to
   discover and deliver on the highest end-customer value in a complex
   and turbulent environment rather than continuing to turn the screws
   on speed and resource efficiency. 
 
-* We believe that no matter how many team are involved, adaptability of
+We believe that no matter how many team are involved, adaptability of
  customer value can be fine-grained and on a timescale of a week to a
  month rather than limited to coarse multi-month program increments
  and quarterly goals.
  
-* We believe in the many advantages of structuring teams around
+We believe in the many advantages of structuring teams around
   customer features and eliminating planning-time dependencies rather
   than components in the technology architecture and continuing
   batched planning with overlapping waterfall lifecycles to manage
   dependencies that could be eliminated.
   
-* We believe in the adaptability advantages of a simplified,
+We believe in the adaptability advantages of a simplified,
   disintermediated organisational structure such that teams
   co-ordinate directly other teams and learn directly from customer
   interaction rather than rebadging the specifiers and co-ordinators.
   
-* We believe in a true co-operative game involving business
+We believe in a true co-operative game involving business
   stakeholders and development rather than fixed incremental
   development within "The Contract Game" based on a scope and date
   contract born out of opposing interests.
   
-* We believe in self-managing teams that own (not rent) their own
+We believe in self-managing teams that own (not rent) their own
   processes and tools within agreed boundaries of interaction and
   transparency rather than being forced to conform to work management
   tools that impose processes on teams.
@@ -72,10 +66,16 @@ find change theater to be actively counterproductive, innoculating
 organizations against the deeper, more fundamental changes they would
 need.
 
-For these reasons we support approaches based on these crucial and
-fundamental Agile principles, such as LeSS, and we reject 'scaling'
-approaches that increase organizational complexity and disempower
-teams.
+Organizations that want to truly serve their customers and employees
+will benefit more from _de-scaling organizational complexity_, and
+instead increasing skills, knowledge, and collaboration.  This
+involves fundamental changes to organizational structure and policy
+led both from the top and the bottom, with farther reaching
+implications and a tougher journey than many will expect.
+
+For these reasons we support approaches based on fundamental Agile
+principles, such as LeSS, and we reject 'scaling' approaches that
+increase organizational complexity and disempower teams.
 
 # Signatories
 * Michael James (MJ), Seattle, WA, 29 July 2019
