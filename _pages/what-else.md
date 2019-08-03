@@ -15,7 +15,9 @@ by our hero Alistair Cockburn.  Please dig this out of your bag and
 share it with your colleagues.
 ![Why-Scrum-Isnt-Making-Your-Company-Very-Agile-book-covers.jpg](../images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-book-covers.jpg)
 
-Join us at the fourth annual [LeSS Conference in Munich](https://less.works/less-conferences/2019-munich/index.html){:target="_blank"}.
+Join us at the fourth annual
+[LeSS Conference in Munich](https://less.works/less-conferences/2019-munich/index.html){:target="_blank"}.
+![LeSS-Conference-banner](../images/LeSS-Conference-banner.png)
 
 Write to us to offer moral support!
 
