@@ -10,3 +10,4 @@ We were also advised that Scrum implies more change than most organizations are 
 
 That is the Scrum I signed up to teach: _no silver bullet_.   
 
+Scrum's mechanics are not particularly important or necessary for all teams, but there is something to the idea that a simple set of rules can help a team and organization discover where change is needed, something to the idea of a Scrum Master helping change the organization to allow team self management and focus on the top priority work.  We don't need to oversell it.
