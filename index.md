@@ -66,6 +66,14 @@ find change theater to be actively counterproductive, innoculating
 organizations against the deeper, more fundamental changes they would
 need.
 
+In 2001, when helping craft the [Agile Manifesto](https://agilemanifesto.org){:target="_blank"}, Alistair Cockburn
+made an observation that strikes us as important today:
+> I am interested in fending off the fat methodology army, the
+vast quantity of RUP, Anderson, SEI, etc. salespeople putting ideas
+into CIOs' minds that they should have lots of paperwork to be "safe."
+Countering the "I want a turnkey methodology, one that works straight
+out of the box" mentality.  Those are the two battles I could use help in.
+
 Organizations that want to truly serve their customers and employees
 will benefit more from _de-scaling organizational complexity_, and
 instead increasing skills, knowledge, and collaboration.  This
