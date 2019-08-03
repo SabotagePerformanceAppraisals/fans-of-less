@@ -10,8 +10,8 @@ Agile Manifesto, the original reason our movement was called *Agile*.
 Some of us were also inspired by
 [a realistic and useful vision of Scrum](a-realistic-and-useful-vision-of-scrum/){:target="_blank"}.
 But we feel that _Agile_ and _Scrum_ are usually distorted to mean
-something incompatible with this prior intent, especially when applied
-to organizations that are bigger than one team.
+something incompatible with this prior intent, especially in
+organizations that are bigger than one team. 
 
 We believe in the competitive advantage of adaptability in order to
   discover and deliver on the highest end-customer value in a complex
