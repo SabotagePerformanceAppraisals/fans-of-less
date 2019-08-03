@@ -30,11 +30,11 @@ We believe in the many advantages of structuring teams around
   dependencies that could be eliminated.
   
 We believe in the adaptability advantages of a simplified,
-  disintermediated organisational structure such that teams
-  co-ordinate directly other teams and learn directly from customer
-  interaction rather than rebadging the specifiers and co-ordinators.
+  disintermediated organizational structure such that teams
+  coordinate directly other teams and learn directly from customer
+  interaction rather than rebadging the specifiers and coordinators.
   
-We believe in a true co-operative game involving business
+We believe in a true cooperative game involving business
   stakeholders and development rather than fixed incremental
   development within "The Contract Game" based on a scope and date
   contract born out of opposing interests.
@@ -78,6 +78,7 @@ fundamental Agile principles, and we reject 'scaling' approaches that
 increase organizational complexity and disempower teams.
 
 # Signatories
-* Michael James (MJ), Seattle, WA, 29 July 2019
+* Michael James (MJ), Seattle, WA, 3 Aug 2019
+* Manoj Vadakkan, Denver, CO, 3 Aug 2019
 * [Add your name here!](/how/)
 
