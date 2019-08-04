@@ -2,6 +2,9 @@
 permalink: /what-else/
 title: What Else Can I Do?
 ---
+Join our [LinkedIn Group](https://www.linkedin.com/groups/6968022/) or
+our [Slack Group](mailto:viktor@odd-e.com?subject=Please-send-Slack-invite).
+
 We have stickers at the Agile 2019 Exhibition Hall, Fans Of LeSS booth
 (in the cool kids' corner, next to GitLab).  Wear yours proudly!
 ![WE WANT LeSS stickers](../images/2000-LeSS-stickers-next-to-a-Manhattan.jpg)
