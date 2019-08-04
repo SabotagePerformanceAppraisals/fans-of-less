@@ -13,10 +13,10 @@ But _Agile_ and _Scrum_ are usually twisted to mean
 something incompatible with this prior intent, especially in
 organizations that are bigger than one team.
 
-Traditional organizations will not gain agility with the superficial
-_change theater_ that is often sold as "Agile."  We find change
-theater to be actively counterproductive, innoculating organizations
-against the structural and policy changes they would need.
+Traditional organizations will not gain agility with the _change
+theater_ that is often sold as "Agile."  Change theater is actively
+counterproductive, innoculating organizations against the structural
+and policy changes they would need.
 
 Agile organizations learn, reprioritize, and adapt to changing
 customer needs, rather than focusing on output.
@@ -27,10 +27,9 @@ Even when many teams are involved, adaptability can be fine-grained,
  
 In knowledge work, "dependencies" are not caused by immutable laws of
 physics.  The perceived need to plan around them through multiple
-Sprints is a symptom of deeper organizational structure and policy
-flaws which should be directly addressed rather than institutionalized
-with the waterfall dependency management that masquerades as Agile
-scaling.
+Sprints is a symptom of organizational structure and policy flaws
+which should be directly addressed rather than institutionalized with
+the waterfall dependency management that masquerades as Agile scaling.
   
 Team self management implies a simplified, disintermediated
 organizational structure. Role-free teams coordinate directly with
@@ -43,9 +42,7 @@ Saying *yes* to agility means saying *no* to things that are mischaracterized as
 * eliminate unnecessary intermediate layers and handoffs, (e.g. [people
   mislabeled "Product Owners" who actually own only one team instead of the
   whole Product](https://seattlescrum.com/downloads/Why-Scrum-Isnt-Making-Your-Organization-Very-Agile-Product-Owner-Misconceptions.pdf){:target="_blank"}) 
-* eliminate unnecessary process-imposed role segregation (e.g. Release
-  Train Engineer, Scrum Master as crypto-project-manager rather than
-  organizational change agent) 
+* eliminate unnecessary process-imposed role segregation (e.g. various kinds of crypto-project-managers) 
 * eliminate software tools that affect the way teams manage their
 Product Backlogs and Sprint Backlogs,
 * eliminate the obsession with quantitative measures, 
