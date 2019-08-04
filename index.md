@@ -29,8 +29,8 @@ Even when many teams are involved, adaptability can be fine-grained,
  
 In knowledge work, "dependencies" are not caused by immutable laws of
 physics.  The perceived need to plan around them through multiple
-Sprints is a symptom of organizational structure and policy flaws
-which should be directly addressed rather than institutionalized with
+Sprints is a symptom of obsolete organizational structure, policy, and
+skills. This should be directly addressed rather than institutionalized with
 the waterfall dependency management that masquerades as Agile scaling.
   
 Team self management implies a simplified, disintermediated
