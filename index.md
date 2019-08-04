@@ -2,6 +2,8 @@
 layout: splash
 ---
 # We Object To The Rampant Distortion Of Agile And Scrum.
+{: style="text-align: center;"}
+
 
 We are calling B.S. on what is usually sold as Agile
 and Scrum. We love the [four values](https://agilemanifesto.org){:target="_blank"} and
@@ -50,7 +52,7 @@ Product Backlogs and Sprint Backlogs,
   disguised as "Agile."
 
 In 2001, when helping craft the [Agile Manifesto](https://agilemanifesto.org){:target="_blank"}, Alistair Cockburn
-made an observation that strikes us as important today:
+made an observation that still resonates:
 > I am interested in fending off the fat methodology army, the
 vast quantity of RUP, Anderson, SEI, etc. salespeople putting ideas
 into CIOs' minds that they should have lots of paperwork to be "safe."
