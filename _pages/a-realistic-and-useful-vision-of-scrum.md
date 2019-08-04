@@ -10,6 +10,6 @@ We were also advised that Scrum implies more change than most organizations are 
 
 That is the Scrum I signed up to teach: _no silver bullet_.   
 
-Scrum's specific mechanics are not particularly needed for teams that understand the principles.  But there is something to the idea of a simple set of rules that can help a team and organization discover where change is needed, something to the idea of a Scrum Master helping change the organization to allow team self management (not *making the team do Scrum*) and focus on the top priority work.  
+Scrum's specific mechanics are not the point, and not needed for teams that have internalized the principles.  But there is something to the idea of a simple set of rules that can help a team and organization discover where change is needed, something to the idea of a Scrum Master helping change the organization to allow team self management (not *making the team do Scrum*) focus on the top priority work, and constantly inspect and adapt.
 
 That's a useful kind of Scrum.  We don't need to oversell it with hyperbolic claims.
