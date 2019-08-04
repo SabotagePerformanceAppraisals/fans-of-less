@@ -21,7 +21,7 @@ counterproductive, innoculating organizations against the structural
 and policy changes they would need.
 
 Agile organizations learn, reprioritize, and adapt to changing
-customer needs, rather than focusing on output.
+customer needs, rather than focusing on quantity of output.
 
 Even when many teams are involved, adaptability can be fine-grained,
  on a timescale of a week to a month rather than limited to coarse
