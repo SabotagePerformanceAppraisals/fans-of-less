@@ -57,3 +57,5 @@
 * Veikko Nokkala, Helsinki, Finland, Aug 6, 2019
 * Brent Uzelac, Minneapolis, MN, Aug 6, 2019
 * Vladimir Gorshunov, Minsk, Belarus, Aug 6, 2019
+* James Stover, Fort Mill, SC, Aug 6, 2019
+* Tommi Johnstone, Portland, OR, Aug 6, 2019
