@@ -67,5 +67,6 @@ and disempower teams.
 # Signatories
 * Michael James (MJ), Seattle, WA, 3 Aug 2019
 * Manoj Vadakkan, Denver, CO, 3 Aug 2019
-* [Add your name here!](/how/)
+* [Add your name!](/how/)
+{% include_relative /signatories.md %}
 
