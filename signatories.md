@@ -1,4 +1,4 @@
-* Gene Gendell, New York, NY, Aug 4, 2019
+* Gene Gendel, New York, NY, Aug 4, 2019
 * Rowan Bunning, Sydney, Australia, Aug 4, 2019
 * Robert Weidner, Twin Cities, MN, Aug 4, 2019
 * Naveen Kumar Singh, Aug 4, 2019
@@ -30,7 +30,7 @@
 * John Coleman, London, UK, Aug 5, 2019
 * Lien Van den Broeck, Belgium, Aug 5, 2019
 * Juan Banda, Cochabamba, Bolivia, Aug 5, 2019
-* Steven Mak, Aug 5, 2019
+* Steven Mak, Hong Kong, Aug 5, 2019
 * Adam Polczyk, London, UK, Aug 5, 2019
 * Csaba Tanczos, Aug 5, 2019
 * Francesco Sferlazza, Aug 5, 2019
@@ -59,3 +59,13 @@
 * Vladimir Gorshunov, Minsk, Belarus, Aug 6, 2019
 * James Stover, Fort Mill, SC, Aug 6, 2019
 * Tommi Johnstone, Portland, OR, Aug 6, 2019
+* Santiago Roza, Buenos Aires, Argentina, Aug 6, 2019
+* Gregory Coolen, Istanbul, Turkey, Aug 6, 2019
+* Jon Jorgensen, Aug 6, 2019
+* Phil Lewis, Manchester, UK, Aug 7, 2019
+* Anton Skornyakov, Berlin, Germany, Aug 7, 2019
+* Jozua Velle, Oostkamp, Belgium, Aug 7, 2019
+* Robert M. Mead, Aug 7, 2019
+* Naveen Kumar Bhaskaran, Aug 7, 2019
+* Michael Garvais, Seattle, WA, Aug 7, 2019
+
