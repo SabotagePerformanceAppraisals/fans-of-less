@@ -39,17 +39,18 @@ other teams and learn directly from customer interaction.  Please stop
 rebadging traditional specifiers and coordinators with Agile-sounding
 names.
   
-Saying *yes* to agility means saying *no* to things that are mischaracterized as Agile: 
-* eliminate processes not owned by teams,
-* eliminate unnecessary intermediate layers and handoffs, (e.g. [people
+Saying *yes* to agility means saying *no* to things that are
+mischaracterized as Agile.  Here are some things we can do instead:
+* eliminate processes not owned by teams
+* eliminate unnecessary intermediate layers and handoffs (e.g. [people
   mislabeled "Product Owners" who actually own only one team instead of the
   whole Product](https://seattlescrum.com/downloads/Why-Scrum-Isnt-Making-Your-Organization-Very-Agile-Product-Owner-Misconceptions.pdf){:target="_blank"}) 
 * eliminate unnecessary process-imposed role segregation (e.g. various kinds of crypto-project-managers) 
 * eliminate software tools that affect the way teams manage their
-Product Backlogs and Sprint Backlogs,
-* eliminate the obsession with quantitative measures, 
+Product Backlogs and Sprint Backlogs
+* eliminate the obsession with quantitative measures
 * learn to detect other traditional practices relabeled and
-  disguised as "Agile."
+  disguised as "Agile"
 
 In 2001, when helping craft the [Agile Manifesto](https://agilemanifesto.org){:target="_blank"}, Alistair Cockburn
 made an observation that still resonates:
