@@ -17,7 +17,7 @@ organizations that are bigger than one team.
 
 Traditional organizations will not gain agility with the _change
 theater_ that is often sold as "Agile."  Change theater is actively
-counterproductive, innoculating organizations against the structural
+counterproductive, inoculating organizations against the structural
 and policy changes they would need.
 
 Agile organizations learn, reprioritize, and adapt to changing
