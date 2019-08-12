@@ -68,4 +68,45 @@
 * Robert M. Mead, Aug 7, 2019
 * Naveen Kumar Bhaskaran, Aug 7, 2019
 * Michael Garvais, Seattle, WA, Aug 7, 2019
-
+* Nitin Khanna, Aug 7, 2019
+* Bruno Margueritat, Aug 7, 2019
+* Guillaume Lhermitte, Aug 7, 2019
+* Soledad Rivero, Buenos Aires, Argentina, Aug 7, 2019
+* Prashant Shinde, Pune, India, Aug 7, 2019
+* Denis Salnikov, Berlin, Germany, Aug 8, 2019
+* Leigh Clark, Berlin, Germany, Aug 8, 2019
+* Inna Klyachman, Aug 8, 2019
+* Jarno Vähäniitty, Helsinki, Finland, Aug 8, 2019
+* Marcel Baumann, Aug 8, 2019
+* Marco Juliano, Wendlingen, Germany, Aug 8, 2019
+* Timon Fiddike, Berlin, Germany, Aug 8, 2019
+* Matias Sebastian Lopez, Buenos Aires, Argentina, Aug 8, 2019
+* Marco Pochmann, Bad Dürkheim, Germany, Aug 8, 2019
+* Daniel Hommel, Aug 8, 2019
+* Ivan Zimine, Singapore, Aug 8, 2019
+* Angela Johnson, Minneapolis, Minnesota, Aug 8, 2019
+* Jonathan Lazo, Lima, Peru, Aug 8, 2019
+* Maksims Jemeljanovs, Riga, Latvia, Aug 8, 2019
+* Geir Amsjo, Oslo, Norway, Aug 8, 2019
+* Bruno Veronesi, Aug 9, 2018
+* Samrat Jha, Aug 9, 2019
+* Rustam Borzov, Aug 9, 2019
+* Jaroslav Klech, Czech Republic, Aug 9, 2019
+* Roman Kohoutek, Czech Republic, Aug 9, 2019
+* Serge Marten, San Francisco, CA, Aug 9, 2019
+* Ramanathan Yegyanarayanan, Aug 9, 2019
+* Elisabeth Richter, Graz, Austria, Aug 9, 2019
+* Rick Waters, Aug 9, 2019
+* Ben Kopel, Aug 9, 2019
+* Martine Devos, Aug 9, 2019
+* Zuzi Sochova, Prague, Czech Republic, Aug 10, 2019
+* Gary Hansen, Cottage Grove, MN, Aug 10, 2019
+* Gerrit Beine, Plauen, Germany, Aug 10, 2019
+* Salah Elleithy, Baltimore, MD, Aug 10, 2019
+* Dennis Mansell, Amsterdam, Aug 11, 2019
+* David Stackleather, Austin, TX, Aug 11, 2019
+* Sameh Zeid, Dearborn, MI, Aug 11, 2019
+* Vinayak Kumbhakern, Aug 12, 2019
+* Arne Åhlander, Lund, Sweden, Aug 12, 2019
+* Ramanathan Yegyanarayanan, Chennai, India, Aug 12, 2019
+* Yves Vervloesem, Brussels Belgium, Aug 12, 2019
