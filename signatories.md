@@ -107,6 +107,14 @@
 * David Stackleather, Austin, TX, Aug 11, 2019
 * Sameh Zeid, Dearborn, MI, Aug 11, 2019
 * Vinayak Kumbhakern, Aug 12, 2019
+* Juliana Rodrigueiro, São Paulo, Brazil, Aug 12, 2019
 * Arne Åhlander, Lund, Sweden, Aug 12, 2019
 * Ramanathan Yegyanarayanan, Chennai, India, Aug 12, 2019
 * Yves Vervloesem, Brussels Belgium, Aug 12, 2019
+* Aernout van den Burg, The Hague, Netherlands, Aug 12, 2019
+* Sylvie R, Aug 12, 2019
+* Sergey Gospodchikov, Ulyanovsk, Russia, Aug 12, 2019
+* Mirza Asfaar Baig, Pakistan, Aug 13, 2019
+* Evelyn Tian, Aug 13, 2019
+* Steve Spearman, Denver, Colorado, Aug 13, 2019
+* Denis Mullaraj, Tirana, Albania, Aug 13, 2019
