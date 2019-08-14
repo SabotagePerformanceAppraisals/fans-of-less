@@ -118,3 +118,7 @@
 * Evelyn Tian, Aug 13, 2019
 * Steve Spearman, Denver, Colorado, Aug 13, 2019
 * Denis Mullaraj, Tirana, Albania, Aug 13, 2019
+* Jerry Rajamoney, Bangalore, India, Aug 13, 2019
+* Nadia Bush, Jersey Channel Islands, Aug 14, 2019
+* Ellen Gottesdiener, Aug 14, 2019
+* Sebastian Paus, Hannover, Germany, Aug 14, 2019
