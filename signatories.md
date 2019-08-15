@@ -122,3 +122,8 @@
 * Nadia Bush, Jersey Channel Islands, Aug 14, 2019
 * Ellen Gottesdiener, Aug 14, 2019
 * Sebastian Paus, Hannover, Germany, Aug 14, 2019
+* James Carpenter, USA, Aug 14, 2019
+* Mads Troels Hansen, Copenhagen, Aug 15, 2019
+* Philip Smith, Aug 15, 2019
+* Chris Hurney, Mission Viejo, California, Aug 15, 2019
+* Sven de Koning, Den Haag, The Netherlands, Aug 15, 2019
