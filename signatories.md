@@ -127,3 +127,8 @@
 * Philip Smith, Aug 15, 2019
 * Chris Hurney, Mission Viejo, California, Aug 15, 2019
 * Sven de Koning, Den Haag, The Netherlands, Aug 15, 2019
+* Wolfgang Steffens, Aug 16, 2019
+* Krzysztof Liszewski, Warsaw, Poland, Aug 16, 2019
+* Alan Cyment, Aug 16, 2019
+* Michael Martin, Dayton OH, Aug 16, 2019
+* Dan Whiting, Cincinnati, Ohio, Aug 16, 2019
