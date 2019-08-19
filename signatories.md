@@ -132,3 +132,11 @@
 * Alan Cyment, Aug 16, 2019
 * Michael Martin, Dayton OH, Aug 16, 2019
 * Dan Whiting, Cincinnati, Ohio, Aug 16, 2019
+* Gervais Johnson, San Francisco, CA, Aug 16, 2019
+* Danny Low, Brisbane, Australia, Aug 16, 2019
+* Kathrin Volkmer, Oslo, Norway, Aug 16, 2019
+* Fabrice Aimetti, Bordeaux, France, Aug 17, 2019
+* Philip Smith, Aug 17, 2019
+* Oleksii Khodakivskyi, Aug 17, 2019
+* Julien Karoubi, Paris, France, Aug 17, 2019
+* Alek Kozlov, Tallinn, Estonia, Aug 18, 2019
