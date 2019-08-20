@@ -140,3 +140,6 @@
 * Oleksii Khodakivskyi, Aug 17, 2019
 * Julien Karoubi, Paris, France, Aug 17, 2019
 * Alek Kozlov, Tallinn, Estonia, Aug 18, 2019
+* Sahin Guvenilir, London, UK, Aug 19, 2019
+* Ahmed Avais, Aug 19, 2019
+* Phil Japikse, Cincinnati, OH, Aug 19, 2019
