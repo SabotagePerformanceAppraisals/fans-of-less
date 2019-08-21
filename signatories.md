@@ -143,3 +143,8 @@
 * Sahin Guvenilir, London, UK, Aug 19, 2019
 * Ahmed Avais, Aug 19, 2019
 * Phil Japikse, Cincinnati, OH, Aug 19, 2019
+* Wolfgang Richter, Graz, Austria, Aug 20, 2019
+* Ozren Crnogorac, Zagreb, Croatia, Aug 20, 2019
+* Jacky Shen, Aug 21, 2019
+* Kamlesh Ravlani, Pune, India, Aug 21, 2019
+* Dhaval Panchal, Houston, TX, Aug 21, 2019
