@@ -148,3 +148,8 @@
 * Jacky Shen, Aug 21, 2019
 * Kamlesh Ravlani, Pune, India, Aug 21, 2019
 * Dhaval Panchal, Houston, TX, Aug 21, 2019
+* Bas Vodde, Aug 22, 2019
+* Kiran Thakkar, Aug 22, 2019
+* Jason Martinez, Aug 23, 2019
+* Abid Quereshi , London, UK, Aug 24, 2019
+* Danil Chernyshev, Toronto, Canada, Aug 25, 2019
