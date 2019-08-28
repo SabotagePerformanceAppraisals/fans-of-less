@@ -153,5 +153,6 @@
 * Jason Martinez, Aug 23, 2019
 * Abid Quereshi , London, UK, Aug 24, 2019
 * Danil Chernyshev, Toronto, Canada, Aug 25, 2019
+* Gerd Bleher, Böblingen, Germany, Aug 26, 2019
 * Alice O'Kane, New York, NY, Aug 28, 2019
 * Jeremy Fries, London, UK, Aug 28, 2019
