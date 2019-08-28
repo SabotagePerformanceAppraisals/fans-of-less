@@ -84,7 +84,7 @@
 * Marco Pochmann, Bad Dürkheim, Germany, Aug 8, 2019
 * Daniel Hommel, Aug 8, 2019
 * Ivan Zimine, Singapore, Aug 8, 2019
-* Angela Johnson, Minneapolis, Minnesota, Aug 8, 2019
+* Angela Johnson, Minneapolis, MN, Aug 8, 2019
 * Jonathan Lazo, Lima, Peru, Aug 8, 2019
 * Maksims Jemeljanovs, Riga, Latvia, Aug 8, 2019
 * Geir Amsjo, Oslo, Norway, Aug 8, 2019
@@ -116,7 +116,7 @@
 * Sergey Gospodchikov, Ulyanovsk, Russia, Aug 12, 2019
 * Mirza Asfaar Baig, Pakistan, Aug 13, 2019
 * Evelyn Tian, Aug 13, 2019
-* Steve Spearman, Denver, Colorado, Aug 13, 2019
+* Steve Spearman, Denver, CO, Aug 13, 2019
 * Denis Mullaraj, Tirana, Albania, Aug 13, 2019
 * Jerry Rajamoney, Bangalore, India, Aug 13, 2019
 * Nadia Bush, Jersey Channel Islands, Aug 14, 2019
@@ -125,13 +125,13 @@
 * James Carpenter, USA, Aug 14, 2019
 * Mads Troels Hansen, Copenhagen, Aug 15, 2019
 * Philip Smith, Aug 15, 2019
-* Chris Hurney, Mission Viejo, California, Aug 15, 2019
+* Chris Hurney, Mission Viejo, CA, Aug 15, 2019
 * Sven de Koning, Den Haag, The Netherlands, Aug 15, 2019
 * Wolfgang Steffens, Aug 16, 2019
 * Krzysztof Liszewski, Warsaw, Poland, Aug 16, 2019
 * Alan Cyment, Aug 16, 2019
 * Michael Martin, Dayton OH, Aug 16, 2019
-* Dan Whiting, Cincinnati, Ohio, Aug 16, 2019
+* Dan Whiting, Cincinnati, OH, Aug 16, 2019
 * Gervais Johnson, San Francisco, CA, Aug 16, 2019
 * Danny Low, Brisbane, Australia, Aug 16, 2019
 * Kathrin Volkmer, Oslo, Norway, Aug 16, 2019
@@ -153,3 +153,5 @@
 * Jason Martinez, Aug 23, 2019
 * Abid Quereshi , London, UK, Aug 24, 2019
 * Danil Chernyshev, Toronto, Canada, Aug 25, 2019
+* Alice O'Kane, New York, NY, Aug 27, 2019
+* Jeremy Fries, London, UK, Aug 27, 2019
