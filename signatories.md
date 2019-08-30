@@ -156,3 +156,4 @@
 * Gerd Bleher, Böblingen, Germany, Aug 26, 2019
 * Alice O'Kane, New York, NY, Aug 28, 2019
 * Jeremy Fries, London, UK, Aug 28, 2019
+* Leandro Zis, Florianópolis, Brazil, Aug 29, 2019
