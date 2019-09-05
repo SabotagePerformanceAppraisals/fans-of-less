@@ -158,3 +158,5 @@
 * Jeremy Fries, London, UK, Aug 28, 2019
 * Leandro Zis, Florianópolis, Brazil, Aug 29, 2019
 * Malte Sussdorff, Hamburg, Germany, Sep 1, 2019
+* Andy Joghi, Sep 4, 2019
+* Duane Kenney, Sep 5, 2019
