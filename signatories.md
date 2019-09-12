@@ -161,3 +161,10 @@
 * Andy Joghi, Sep 4, 2019
 * Duane Kenney, Sep 5, 2019
 * Michael F. Forni, London, UK, Sep 8, 2019
+* Evgeniy Labunskiy, Kyiv, Ukraine, Sep 12, 2019
+* Jerry Lopez, Sep 12, 2019
+* Ralf Berninger, Germany, Sep 12, 2019
+* Kai-Uwe Rupp, Germany, Sep 12, 2019
+* Holger Tangermann, Magdeburg, Germany, Sep 12, 2019
+* Josef Scherer, Sep 12, 2019
+* Allan Rennebo Jepsen, Sep 12, 2019
