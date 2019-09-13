@@ -168,3 +168,6 @@
 * Holger Tangermann, Magdeburg, Germany, Sep 12, 2019
 * Josef Scherer, Sep 12, 2019
 * Allan Rennebo Jepsen, Sep 12, 2019
+* Patrick Wunderlich, Nuremberg, Germany, Sep 12, 2019
+* Andrii Gontar, Kharkiv, Ukraine, Sep 13, 2019
+* Radoslav Ciglansky, Bratislava, Slovakia, Sep 13, 2019
