@@ -181,7 +181,7 @@
 * Andrea Anderson, Canberra Australia, Sep 15, 2019
 * Sunish Chabba, Melbourne, Australia, Sep 16, 2019
 * Patryk Czmochowski, Sep 16, 2019
-* Willem Aalderink, Woerden, Netherlands, Sep 16, 2019
+* Willem Aalderink, Woerden, The Netherlands, Sep 16, 2019
 * Jim Christie, Sep 16, 2019
 * Willo van der Merwe, Cape Town, South Africa, Sep 16, 2019
 * Stephan Bester, Cape Town, South Africa, Sep 16, 2019
@@ -189,3 +189,7 @@
 * Osman Çağatay Doğan, İstanbul, Turkey, Sep 16, 2019
 * Nick Nijenhuis, Sep 16, 2019
 * Sikunj Savaliya, Toronto, Canada, Sep 16, 2019
+* Gerard Berends, Amsterdam, The Netherlands, Sep 16, 2019
+* Laurent Pernetta, Sep 16, 2019
+* Leise Astrid Passer Jensen, Copenhagen, Denmark, Sep 16, 2019
+* Dong-Chu Ahn, Frankfurt am Main, Germany, Sep 17, 2019
