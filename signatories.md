@@ -171,3 +171,21 @@
 * Patrick Wunderlich, Nuremberg, Germany, Sep 12, 2019
 * Andrii Gontar, Kharkiv, Ukraine, Sep 13, 2019
 * Radoslav Ciglansky, Bratislava, Slovakia, Sep 13, 2019
+* Leonardo Tapia J., Madrid, Spain, Sep 13, 2019
+* Andrea Benton, Sydney, Australia, Sep 15, 2019
+* Shane Wheller, Sep 15, 2019
+* Mahesh Krshnan, Wellington, NZ, Sep 15, 2019
+* Bill Asch, Sep 15, 2019
+* Blazej Drobniuch, Krakow, Poland, Sep 15, 2019
+* Sofia Pelzl, Sep 15, 2019
+* Andrea Anderson, Canberra Australia, Sep 15, 2019
+* Sunish Chabba, Melbourne, Australia, Sep 16, 2019
+* Patryk Czmochowski, Sep 16, 2019
+* Willem Aalderink, Woerden, Netherlands, Sep 16, 2019
+* Jim Christie, Sep 16, 2019
+* Willo van der Merwe, Cape Town, South Africa, Sep 16, 2019
+* Stephan Bester, Cape Town, South Africa, Sep 16, 2019
+* Ewan McPhail, Sep 16, 2019
+* Osman Çağatay Doğan, İstanbul, Turkey, Sep 16, 2019
+* Nick Nijenhuis, Sep 16, 2019
+* Sikunj Savaliya, Toronto, Canada, Sep 16, 2019
