@@ -193,3 +193,6 @@
 * Laurent Pernetta, Sep 16, 2019
 * Leise Astrid Passer Jensen, Copenhagen, Denmark, Sep 16, 2019
 * Dong-Chu Ahn, Frankfurt am Main, Germany, Sep 17, 2019
+* Tim Peteler, Frankfurt, Germany, Sep 18, 2019
+* Markus Tecza, Munich, Germany, Sep 18, 2019
+* Tom Latka, Munich, Germany, Sep 18, 2019
