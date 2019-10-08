@@ -199,3 +199,5 @@
 * Siew Kok Ewe, Penang, Malaysia, Sep 22, 2019
 * Nafees Butt, Sydney, Australia, Sep 23, 2019
 * Martin Fišer, Prague, Czech Republic, Sep 27, 2019
+* Cathy Simpson, Oct 4, 2019
+* Kārlis Cinis, Riga, Latvia, Oct 4, 2019
