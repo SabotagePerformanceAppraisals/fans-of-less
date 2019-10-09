@@ -202,3 +202,4 @@
 * Cathy Simpson, Oct 4, 2019
 * Kārlis Cinis, Riga, Latvia, Oct 4, 2019
 * Michael Mai, Munich, Germany, Oct 8, 2019
+* Lukas Benedikt, Bratislava, Slovakia, Oct 9, 2019
