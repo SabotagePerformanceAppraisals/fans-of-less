@@ -205,3 +205,4 @@
 * Lukas Benedikt, Bratislava, Slovakia, Oct 9, 2019
 * Anton Romanov, Oct 13, 2109
 * Chokchai Phatharamalai, Thailand, Oct 15, 2019
+* Phongsak Ritpitakphong (Jane), Thailand, Oct 16, 2019
