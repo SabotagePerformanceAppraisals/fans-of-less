@@ -10,3 +10,5 @@ Andreas Schliep declared the Fans of LeSS booth to be the coolest one at the gat
 
 ## LeSS Company Sponsorship
 The LeSS Company founders Craig Larman and Bas Vodde are active software developers/coaches who haven't put much effort into marketing LeSS.  We've asked them to pay our expenses for Fans Of LeSS promotional activities, but not our time.
+
+![Fans of LeSS at ABE](/images/fans-of-less-at-agile-by-example.jpg)
