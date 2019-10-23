@@ -11,7 +11,7 @@ books over the past decade, coaching,
 [training](https://less.works/courses/less-courses.html),
 [conferences](https://less.works/less-conferences/2019-munich/index.html),
 dozens of real life [experience reports](https://less.works/case-studies/index.html), and
-a growing community.
+a growing [community](https://less.works/resources/communities.html).
 
 ## Some Of The LeSS Videos
 {% include video id="1BZf_Oa7W94?rel=0" provider="youtube" %} 
