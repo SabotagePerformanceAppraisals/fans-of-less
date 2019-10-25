@@ -206,3 +206,8 @@
 * Anton Romanov, Oct 13, 2109
 * Chokchai Phatharamalai, Thailand, Oct 15, 2019
 * Phongsak Ritpitakphong (Jane), Thailand, Oct 16, 2019
+* Ealden Escañan, Philippines, Oct 23, 2019
+* Clarence Xu, Stuttgart, Germany, Oct 24, 2019
+* Daniel Westermayr, Munich, Germany, Oct 24, 2019
+* Helmut Steineder, Graz, Austria, Oct 24, 2019
+* Tom Holt, St. Louis, MO, Oct 24, 2019
