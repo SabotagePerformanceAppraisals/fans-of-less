@@ -211,3 +211,6 @@
 * Daniel Westermayr, Munich, Germany, Oct 24, 2019
 * Helmut Steineder, Graz, Austria, Oct 24, 2019
 * Tom Holt, St. Louis, MO, Oct 24, 2019
+* Colleen Esposito, St. Petersburg, FL, Oct 26, 2019
+* Markus Fuchs, Munich, Germany, Oct 27, 2019
+* David Cole, Munich, Germany, Oct 28, 2019
