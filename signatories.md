@@ -214,3 +214,6 @@
 * Colleen Esposito, St. Petersburg, FL, Oct 26, 2019
 * Markus Fuchs, Munich, Germany, Oct 27, 2019
 * David Cole, Munich, Germany, Oct 28, 2019
+* Serena Goh, Singapore, Oct 29, 2019
+* Mohamed Arezki, Oct 30, 2019
+* Harald Dietrich, Munich, Germany, Oct 30, 2019
