@@ -217,3 +217,5 @@
 * Serena Goh, Singapore, Oct 29, 2019
 * Mohamed Arezki, Oct 30, 2019
 * Harald Dietrich, Munich, Germany, Oct 30, 2019
+* Mohamed Chibani, Oct 30, 2019
+* Paul Sanders, Amsterdam, The Netherlands, Nov 1, 2019
