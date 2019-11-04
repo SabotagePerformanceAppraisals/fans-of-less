@@ -219,3 +219,5 @@
 * Harald Dietrich, Munich, Germany, Oct 30, 2019
 * Mohamed Chibani, Oct 30, 2019
 * Paul Sanders, Amsterdam, The Netherlands, Nov 1, 2019
+* Niek Jansma, Nov 1, 2019
+* Martin Schwalbe Lohmann, Copenhagen, Denmark, Nov 4, 2019
