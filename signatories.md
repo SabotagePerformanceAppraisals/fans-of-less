@@ -221,3 +221,7 @@
 * Paul Sanders, Amsterdam, The Netherlands, Nov 1, 2019
 * Niek Jansma, Nov 1, 2019
 * Martin Schwalbe Lohmann, Copenhagen, Denmark, Nov 4, 2019
+* Tuomas Torsti, Helsinki, Finland, Nov 5, 2019
+* Michał Jakubas, Gdynia, Poland, Nov 5, 2019
+* Daniel Heinen, Munich, Germany, Nov 5, 2019
+* Joachim Schmidt, Munich, Germany, Nov 5, 2019
