@@ -225,3 +225,4 @@
 * Michał Jakubas, Gdynia, Poland, Nov 5, 2019
 * Daniel Heinen, Munich, Germany, Nov 5, 2019
 * Joachim Schmidt, Munich, Germany, Nov 5, 2019
+* Andrii Shevchenko, Kyiv, Ukraine, Nov 18, 2019
