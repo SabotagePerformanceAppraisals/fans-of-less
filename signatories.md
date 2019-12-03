@@ -226,3 +226,4 @@
 * Daniel Heinen, Munich, Germany, Nov 5, 2019
 * Joachim Schmidt, Munich, Germany, Nov 5, 2019
 * Andrii Shevchenko, Kyiv, Ukraine, Nov 18, 2019
+* Nithin Bopanna, London, UK, Nov 29, 2019
