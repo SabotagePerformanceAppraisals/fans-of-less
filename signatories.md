@@ -227,3 +227,8 @@
 * Joachim Schmidt, Munich, Germany, Nov 5, 2019
 * Andrii Shevchenko, Kyiv, Ukraine, Nov 18, 2019
 * Nithin Bopanna, London, UK, Nov 29, 2019
+* Den Sunny, Munich, Germany, Dec 15, 2019
+* Frank Ray, London, UK, Dec 16, 2019
+* Christian van Stom, Brisbane, Australia, Dec 16, 2019
+* Anton Nemchinov, Moscow, Russia, Dec 16, 2019
+* Koki Shimizu, Tokyo, Japan, Dec 16, 2019
