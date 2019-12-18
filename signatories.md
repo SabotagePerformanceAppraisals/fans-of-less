@@ -232,3 +232,7 @@
 * Christian van Stom, Brisbane, Australia, Dec 16, 2019
 * Anton Nemchinov, Moscow, Russia, Dec 16, 2019
 * Koki Shimizu, Tokyo, Japan, Dec 16, 2019
+* Jayadev Meka, Bangalore, India, Dec 16, 2019
+* Nadja Obenaus, Hamburg, Germany, Dec 17, 2019
+* Sergey Kotovich, Kaluga, Russia, Dec 17, 2019
+* Hernán Paredes, Dec 17, 2019
