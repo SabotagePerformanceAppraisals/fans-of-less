@@ -238,3 +238,4 @@
 * Hernán Paredes, Dec 17, 2019
 * Mirza Asfaar Baig, Dec 19, 2019
 * Frank Quinteros, New York, NY, Dec 24, 2019
+* Ryan Ness, Minneapolis, MN, Jan 2, 2020
