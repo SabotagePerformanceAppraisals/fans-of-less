@@ -239,3 +239,6 @@
 * Mirza Asfaar Baig, Dec 19, 2019
 * Frank Quinteros, New York, NY, Dec 24, 2019
 * Ryan Ness, Minneapolis, MN, Jan 2, 2020
+* Pierluigi Pugliese, Munich, Germany, Jan 10, 2020
+* Dario Campagna, Trieste, Italy, Jan 10, 2020
+* Fabio Asnicar, Milan, Italy, Jan 13, 2020
