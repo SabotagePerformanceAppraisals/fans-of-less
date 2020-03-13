@@ -242,3 +242,4 @@
 * Pierluigi Pugliese, Munich, Germany, Jan 10, 2020
 * Dario Campagna, Trieste, Italy, Jan 10, 2020
 * Fabio Asnicar, Milan, Italy, Jan 13, 2020
+* Venkatesh Rajamani, Mar 10, 2020
