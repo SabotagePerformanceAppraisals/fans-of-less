@@ -244,3 +244,4 @@
 * Fabio Asnicar, Milan, Italy, Jan 13, 2020
 * Venkatesh Rajamani, Mar 10, 2020
 * Carla Medway, Sydney, Australia, Apr 29, 2020
+* Charles (Randy) Cain, Nashville, TN, May 15, 2020
