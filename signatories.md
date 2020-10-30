@@ -246,3 +246,4 @@
 * Carla Medway, Sydney, Australia, Apr 29, 2020
 * Charles (Randy) Cain, Nashville, TN, May 15, 2020
 * César Bruschi, June 10, 2020
+* Daniele Herbert Raccuia, Milan, Italy, Oct 28, 2020
