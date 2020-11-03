@@ -247,3 +247,4 @@
 * Charles (Randy) Cain, Nashville, TN, May 15, 2020
 * César Bruschi, June 10, 2020
 * Daniele Herbert Raccuia, Milan, Italy, Oct 28, 2020
+* Juliana Ceja, Honolulu, HI, Chicago, IL, Nov 2, 2020
