@@ -249,4 +249,4 @@
 * Daniele Herbert Raccuia, Milan, Italy, Oct 28, 2020
 * Juliana Ceja, Honolulu, HI, Chicago, IL, Nov 2, 2020
 * Brian Hart, Indianapolis, IN, Dec 3, 2020
-* Milan Schwarz, Dec 26, 2020
+* Milan Schwarz, Brno, Czech Republic, Dec 26, 2020
