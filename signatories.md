@@ -251,4 +251,8 @@
 * Brian Hart, Indianapolis, IN, Dec 3, 2020
 * Milan Schwarz, Brno, Czech Republic, Dec 26, 2020
 * John Mason, Savannah, GA, Mar 11, 2021
-* 
+* Dariusz Klupi, Kraków, Poland, Mar 25, 2021
+* Raj Kumar Radhakrishnan, Ireland, Mar 25, 2021
+* Ogden Rojas, Twin Cities, MN, Mar 25, 2021
+* Narendra Shivadas, Mar 25, 2021
+* Marcelo Lopez, Jr., Miami, FL, Mar 25, 2021 
