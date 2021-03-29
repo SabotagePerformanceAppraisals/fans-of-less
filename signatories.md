@@ -256,3 +256,4 @@
 * Ogden Rojas, Twin Cities, MN, Mar 25, 2021
 * Narendra Shivadas, Mar 25, 2021
 * Marcelo Lopez, Jr., Miami, FL, Mar 25, 2021 
+* Rainer Hoferichter, Lauf, Germany Mar, 27, 2021
