@@ -258,3 +258,6 @@
 * Marcelo Lopez, Jr., Miami, FL, Mar 25, 2021 
 * Rainer Hoferichter, Lauf, Germany Mar, 27, 2021
 * Jayaprakash Puttaswamy, Mar 29, 2021
+* Douglas Gore, North Carolina, Mar 30, 2021
+* Inga Osovsky, New Jersey, Mar 30, 2021
+* Colleen Maguire, New York, NY, Mar 30, 2021
