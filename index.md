@@ -70,4 +70,5 @@ and disempower teams.
 * Manoj Vadakkan, Denver, CO, 3 Aug 2019
 * [Add your name!](/how/)
 {% include_relative /signatories.md %}
+* [Add your name!](/how/)
 
