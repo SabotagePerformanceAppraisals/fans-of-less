@@ -2,7 +2,7 @@
 permalink: /a-realistic-and-useful-vision-of-scrum/
 title: Back to a Realistic and Useful Vision of Scrum (MJ's Perspective Only)
 ---
-I first got interested in Scrum around the time Ken Schwaber published the first two books about it (one co-authored with Mike Beedle).
+I first got interested in Scrum around the time Ken Schwaber published the first two books about it in the early 2000s.
 
 I was impressed that Ken admonished us not to present Scrum as a silver bullet.   Instead, we can use Scrum to reveal organizational shortcomings so that management can fix them if they are brave enough to do it: _Effort centers on the change in the enterprise that is needed._
 
