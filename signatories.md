@@ -264,3 +264,5 @@
 * Joost Okkinga, Mar 31, 2021
 * Ravi Jay, Isle of Dogs, London, UK, Apr 3, 2021
 * Maurice Huellein, London, UK, Apr 5, 2021
+* David Koontz, Dallas, TX, Apr 18, 2021
+* Michael J. Tardiff, Seattle, WA, Apr 18, 2021
