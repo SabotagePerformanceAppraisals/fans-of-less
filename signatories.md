@@ -267,3 +267,5 @@
 * David Koontz, Dallas, TX, Apr 18, 2021
 * Michael J. Tardiff, Seattle, WA, Apr 18, 2021
 * Stefan Büche, Heidelberg, Germany, May 4, 2021
+* Fabiano Magno Pechibella, Brazil, May 25, 2021
+* Lisa Fraga, May 26, 2021
