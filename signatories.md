@@ -272,3 +272,6 @@
 * Christina Dorfman, May 26, 2021
 * Behzad Nazarbakhsh, June 15, 2021
 * Anna Wach, Marki, Poland, July 3, 2021
+* Magnus Vestin, Skelleftea, Sweden, Sep 2, 2021
+* Chadwick Lau, Hong Kong, Sep 5, 2021
+* Just Meddens, Hilversum, The Netherlands, Sep 13, 2021
