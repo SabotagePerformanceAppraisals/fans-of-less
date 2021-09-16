@@ -275,3 +275,5 @@
 * Magnus Vestin, Skelleftea, Sweden, Sep 2, 2021
 * Chadwick Lau, Hong Kong, Sep 5, 2021
 * Just Meddens, Hilversum, The Netherlands, Sep 13, 2021
+* Terry Yin, Singapore, Sep 14, 2021
+* Kiran Hosahalli, Budapest, Hungary, Sep 16, 2021
