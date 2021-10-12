@@ -277,3 +277,4 @@
 * Just Meddens, Hilversum, The Netherlands, Sep 13, 2021
 * Terry Yin, Singapore, Sep 14, 2021
 * Kiran Hosahalli, Budapest, Hungary, Sep 16, 2021
+* Mike Baker, Eden Prairie, MN, Oct 5, 2021
