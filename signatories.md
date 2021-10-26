@@ -278,3 +278,5 @@
 * Terry Yin, Singapore, Sep 14, 2021
 * Kiran Hosahalli, Budapest, Hungary, Sep 16, 2021
 * Mike Baker, Eden Prairie, MN, Oct 5, 2021
+* Emran Bhojawala, Eden Prairie, MN, Oct 22, 2021
+* Sebastian Zebrowski, Oct 24, 2021
