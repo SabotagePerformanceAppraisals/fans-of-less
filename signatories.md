@@ -282,3 +282,4 @@
 * Sebastian Zebrowski, Oct 24, 2021
 * Neil Marini, Atlanta, GA, Nov 24, 2021
 * Piotr Pilakowski, Poland (living in Germany), Dec 20, 2021
+* Lukasz Florczak, Cracow, Poland, Dec 23, 2021
