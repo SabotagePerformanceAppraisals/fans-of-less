@@ -2,6 +2,9 @@
 permalink: /who/
 title: Who Are We?
 ---
+
+![Fans of LeSS in Germany](/images/Oksana.jpg)
+
 ## Volunteers
 Manoj Vadakkan started Fans Of LeSS for the Austin Scrum Gathering in 2019 as a countermeasure to the big-box methdology and tools salesmen typically found exhibiting at Agile conferences.  I (MJ) quickly volunteered.  We set up a booth at the conference and got help from other volunteers such as Gene Gendel, Manjit Singh, and Rowan Bunning.  (If I left anyone out, please contact me and I'll add you.)
 
@@ -12,6 +15,4 @@ Andreas Schliep declared the Fans of LeSS booth to be the coolest one at the gat
 The LeSS Company founders Craig Larman and Bas Vodde are active software developers/coaches who haven't put much effort into marketing LeSS.  We've asked them to pay our expenses for Fans Of LeSS promotional activities, but not our time.
 
 * * *
-
-![Fans of LeSS in Germany](/images/Oksana.jpg)
 ![Fans of LeSS at ABE](/images/fans-of-less-at-agile-by-example.jpg)
