@@ -287,3 +287,4 @@
 * Bhanu Prasad Bodgari, Hyderabad, India, Feb 25, 2022
 * Vivek Jayaraman, Chenai, India, Mar 12, 2022
 * Frederik Vannieuwenhuyse, Brussels, Belgium, Apr 12, 2022
+* James Chan, Sydney, Australia, Nov 24, 2022
