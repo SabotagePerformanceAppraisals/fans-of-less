@@ -9,7 +9,7 @@ customers in a lot of domains.  It addresses the core organizational
 design problems at the root of inagility.  LeSS is described by three
 books over the past decade, coaching,
 [training](https://less.works/courses/less-courses.html),
-[conferences](https://less.works/less-conferences/2019-munich/index.html),
+[conferences](https://less.works/less-conferences),
 dozens of real life [experience reports](https://less.works/case-studies/index.html), and
 a growing [community](https://less.works/resources/communities.html).
 
