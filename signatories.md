@@ -291,3 +291,5 @@
 * Martin Salias, Buenos Aires, Jun 30, 2023
 * Bastiaan van Hamersveld, Amsterdam, The Netherlands, Jul 3, 2023
 * Benoit Dupard, Paris, France, Jul 4, 2023
+* Patrick C. Fernando, Brisbane, Australia, Sep 12, 2023
+* 
