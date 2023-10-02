@@ -292,4 +292,6 @@
 * Bastiaan van Hamersveld, Amsterdam, The Netherlands, Jul 3, 2023
 * Benoit Dupard, Paris, France, Jul 4, 2023
 * Patrick C. Fernando, Brisbane, Australia, Sep 12, 2023
-* 
+* Salman Mohd Sultan, Sep 29, 2023
+* Roy Klein, Amsterdam, The Netherlands, Oct 2, 2023
+* Alex Schwartz, Berlin, Germany, Oct 2, 2023
