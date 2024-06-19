@@ -296,3 +296,4 @@
 * Roy Klein, Amsterdam, The Netherlands, Oct 2, 2023
 * Alex Schwartz, Berlin, Germany, Oct 2, 2023
 * Michael Voorhaen, Olmen, Belgium, Oct 2, 2023
+* Daniel Pokrývka, Prague, Czech Republic, June 6, 2024
