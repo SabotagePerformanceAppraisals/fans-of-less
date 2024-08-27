@@ -297,3 +297,4 @@
 * Alex Schwartz, Berlin, Germany, Oct 2, 2023
 * Michael Voorhaen, Olmen, Belgium, Oct 2, 2023
 * Daniel Pokrývka, Prague, Czech Republic, June 6, 2024
+* Jean Cloarec, Toulouse, France, August 27, 2024
