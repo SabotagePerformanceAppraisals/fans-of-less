@@ -298,3 +298,5 @@
 * Michael Voorhaen, Olmen, Belgium, Oct 2, 2023
 * Daniel Pokrývka, Prague, Czech Republic, June 6, 2024
 * Jean Cloarec, Toulouse, France, August 27, 2024
+* Chris Gagné, Tākaka, New Zealand, August 28, 2024
+* Philippe Bourgeon, Paris, France, August 28, 2024
