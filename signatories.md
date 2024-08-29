@@ -42,7 +42,7 @@
 * Darren Terrell, Saint Augustine, FL, Aug 5, 2019
 * Srikanth Ramanujam, Toronto, Ontario Canada, Aug 5, 2019
 * Konstantin Ribel, Munich, Germany, Aug 5, 2019
-* Wim Wijsman, Leusden, Netherlands, Aug 5, 2019
+* Wim Wijsman, Leusden, the Netherlands, Aug 5, 2019
 * Erin Perry, Aug 5, 2019
 * Narayann Swaami, Aug 5, 2019
 * Richard Hundhausen, Boise, ID, Aug 5, 2019
@@ -103,7 +103,7 @@
 * Gary Hansen, Cottage Grove, MN, Aug 10, 2019
 * Gerrit Beine, Plauen, Germany, Aug 10, 2019
 * Salah Elleithy, Baltimore, MD, Aug 10, 2019
-* Dennis Mansell, Amsterdam, Aug 11, 2019
+* Dennis Mansell, Amsterdam, the Netherlands, Aug 11, 2019
 * David Stackleather, Austin, TX, Aug 11, 2019
 * Sameh Zeid, Dearborn, MI, Aug 11, 2019
 * Vinayak Kumbhakern, Aug 12, 2019
@@ -111,7 +111,7 @@
 * Arne Åhlander, Lund, Sweden, Aug 12, 2019
 * Ramanathan Yegyanarayanan, Chennai, India, Aug 12, 2019
 * Yves Vervloesem, Brussels Belgium, Aug 12, 2019
-* Aernout van den Burg, The Hague, Netherlands, Aug 12, 2019
+* Aernout van den Burg, The Hague, the Netherlands, Aug 12, 2019
 * Sylvie R, Aug 12, 2019
 * Sergey Gospodchikov, Ulyanovsk, Russia, Aug 12, 2019
 * Mirza Asfaar Baig, Pakistan, Aug 13, 2019
@@ -126,7 +126,7 @@
 * Mads Troels Hansen, Copenhagen, Aug 15, 2019
 * Philip Smith, Aug 15, 2019
 * Chris Hurney, Mission Viejo, CA, Aug 15, 2019
-* Sven de Koning, Den Haag, The Netherlands, Aug 15, 2019
+* Sven de Koning, Den Haag, the Netherlands, Aug 15, 2019
 * Wolfgang Steffens, Aug 16, 2019
 * Krzysztof Liszewski, Warsaw, Poland, Aug 16, 2019
 * Alan Cyment, Aug 16, 2019
@@ -181,7 +181,7 @@
 * Andrea Anderson, Canberra Australia, Sep 15, 2019
 * Sunish Chabba, Melbourne, Australia, Sep 16, 2019
 * Patryk Czmochowski, Sep 16, 2019
-* Willem Aalderink, Woerden, The Netherlands, Sep 16, 2019
+* Willem Aalderink, Woerden, the Netherlands, Sep 16, 2019
 * Jim Christie, Sep 16, 2019
 * Willo van der Merwe, Cape Town, South Africa, Sep 16, 2019
 * Stephan Bester, Cape Town, South Africa, Sep 16, 2019
@@ -189,7 +189,7 @@
 * Osman Çağatay Doğan, İstanbul, Turkey, Sep 16, 2019
 * Nick Nijenhuis, Sep 16, 2019
 * Sikunj Savaliya, Toronto, Canada, Sep 16, 2019
-* Gerard Berends, Amsterdam, The Netherlands, Sep 16, 2019
+* Gerard Berends, Amsterdam, the Netherlands, Sep 16, 2019
 * Laurent Pernetta, Sep 16, 2019
 * Leise Astrid Passer Jensen, Copenhagen, Denmark, Sep 16, 2019
 * Dong-Chu Ahn, Frankfurt am Main, Germany, Sep 17, 2019
@@ -218,7 +218,7 @@
 * Mohamed Arezki, Oct 30, 2019
 * Harald Dietrich, Munich, Germany, Oct 30, 2019
 * Mohamed Chibani, Oct 30, 2019
-* Paul Sanders, Amsterdam, The Netherlands, Nov 1, 2019
+* Paul Sanders, Amsterdam, the Netherlands, Nov 1, 2019
 * Niek Jansma, Nov 1, 2019
 * Martin Schwalbe Lohmann, Copenhagen, Denmark, Nov 4, 2019
 * Tuomas Torsti, Helsinki, Finland, Nov 5, 2019
@@ -274,7 +274,7 @@
 * Anna Wach, Marki, Poland, July 3, 2021
 * Magnus Vestin, Skelleftea, Sweden, Sep 2, 2021
 * Chadwick Lau, Hong Kong, Sep 5, 2021
-* Just Meddens, Hilversum, The Netherlands, Sep 13, 2021
+* Just Meddens, Hilversum, the Netherlands, Sep 13, 2021
 * Terry Yin, Singapore, Sep 14, 2021
 * Kiran Hosahalli, Budapest, Hungary, Sep 16, 2021
 * Mike Baker, Eden Prairie, MN, Oct 5, 2021
@@ -289,14 +289,23 @@
 * Frederik Vannieuwenhuyse, Brussels, Belgium, Apr 12, 2022
 * James Chan, Sydney, Australia, Nov 24, 2022
 * Martin Salias, Buenos Aires, Jun 30, 2023
-* Bastiaan van Hamersveld, Amsterdam, The Netherlands, Jul 3, 2023
+* Bastiaan van Hamersveld, Amsterdam, the Netherlands, Jul 3, 2023
 * Benoit Dupard, Paris, France, Jul 4, 2023
 * Patrick C. Fernando, Brisbane, Australia, Sep 12, 2023
 * Salman Mohd Sultan, Sep 29, 2023
-* Roy Klein, Amsterdam, The Netherlands, Oct 2, 2023
+* Roy Klein, Amsterdam, the Netherlands, Oct 2, 2023
 * Alex Schwartz, Berlin, Germany, Oct 2, 2023
 * Michael Voorhaen, Olmen, Belgium, Oct 2, 2023
 * Daniel Pokrývka, Prague, Czech Republic, June 6, 2024
-* Jean Cloarec, Toulouse, France, August 27, 2024
-* Chris Gagné, Tākaka, New Zealand, August 28, 2024
-* Philippe Bourgeon, Paris, France, August 28, 2024
+* Jean Cloarec, Toulouse, France, Aug 27, 2024
+* Chris Gagné, Tākaka, New Zealand, Aug 28, 2024
+* Philippe Bourgeon, Paris, France, Aug 28, 2024
+* Christian Miles, Aug 29, 2024
+* John Kop, Roosendaal, the Netherlands, Aug 29, 2024
+* Dexter Mooi, Singapore, Aug 29, 2024
+* Xavier Warzee, Paris, France, Aug 29, 2024
+* Wout Jansen, St. Gallen, Switzerland, Aug 29, 2024
+* Rich Marty Harris, Aug 29, 2024
+* Stas Pavlov, Voorburg, the Netherlands, Aug 29, 2024
+* René Romkes, Leidschendam, the Netherlands, Aug 29, 2024
+* Minne Prins, Amsterdam, the Netherlands, Aug 29, 2024
