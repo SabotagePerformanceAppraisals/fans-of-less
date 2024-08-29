@@ -309,3 +309,4 @@
 * Stas Pavlov, Voorburg, the Netherlands, Aug 29, 2024
 * René Romkes, Leidschendam, the Netherlands, Aug 29, 2024
 * Minne Prins, Amsterdam, the Netherlands, Aug 29, 2024
+* Ramsy de Vos, 's-Hertogenbosch, the Netherlands
