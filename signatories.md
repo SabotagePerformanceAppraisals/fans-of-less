@@ -310,3 +310,6 @@
 * René Romkes, Leidschendam, the Netherlands, Aug 29, 2024
 * Minne Prins, Amsterdam, the Netherlands, Aug 29, 2024
 * Ramsy de Vos, 's-Hertogenbosch, the Netherlands
+* Francesco Sferlazza, Milan, Italy, Aug 30, 2024
+* Théo Moussaoui, Paris, France, Aug 30, 2024
+* Karl Morgan, United Kingdom, Aug 30, 2024
