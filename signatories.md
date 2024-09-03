@@ -313,3 +313,7 @@
 * Francesco Sferlazza, Milan, Italy, Aug 30, 2024
 * Théo Moussaoui, Paris, France, Aug 30, 2024
 * Karl Morgan, United Kingdom, Aug 30, 2024
+* Joel Robinson, Seattle, WA, Aug 30, 2024
+* Jowen Mei, Aug 31, 2024
+* Antonio D'Amato, Milan, Italy, Aug 31, 2024
+* Khalid Sultan, New York, NY, Sept 2, 2024
