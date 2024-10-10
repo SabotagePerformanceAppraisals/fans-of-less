@@ -318,3 +318,4 @@
 * Antonio D'Amato, Milan, Italy, Aug 31, 2024
 * Khalid Sultan, New York, NY, Sept 2, 2024
 * Paul Hutton, Singapore, Sept 5, 2024
+* Deniz Erkan, Los Angeles, CA, Oct 9, 2024
