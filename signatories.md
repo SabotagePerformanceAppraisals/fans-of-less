@@ -319,3 +319,7 @@
 * Khalid Sultan, New York, NY, Sept 2, 2024
 * Paul Hutton, Singapore, Sept 5, 2024
 * Deniz Erkan, Los Angeles, CA, Oct 9, 2024
+* Francois Fort, Paris, France, Dec 30, 2024
+* Branko Kralik, Zagreb, Croatia, Dec 30, 2024
+* Tim Born, Phoenix, Arizona, Dec 30, 2024
+* Ari Tikka, Finland, Dec 30, 2024
