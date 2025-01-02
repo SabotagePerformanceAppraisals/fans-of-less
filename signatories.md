@@ -323,3 +323,5 @@
 * Branko Kralik, Zagreb, Croatia, Dec 30, 2024
 * Tim Born, Phoenix, Arizona, Dec 30, 2024
 * Ari Tikka, Finland, Dec 30, 2024
+* Jackson Zhang, Shanghai, China, Dec 30, 2024
+* Roland Flemm, Dec 31, 2024
